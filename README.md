@@ -25,6 +25,7 @@ Et finalement, pourquoi laisser sur la table les 4200 € de Compte Personnel de
 
 - Une grand carte interactive du Japon (OpenStreetMap ou Google Map ? Le plus pertinent pour le Japon).
 - Chaque tag envoie vers la page correspondante (une description standard. Structure à définir mais avec les données de la BD : marques, nom de la brasserie, adresse, une ou plusieurs photos de la brasserie, lien vers le site, photos des sake que j'ai bu/essayés. commentaire perso....)
+![image](https://user-images.githubusercontent.com/131444312/236767348-ec7ea701-84dd-4b3b-a865-94077ea1a920.png)
 
 3. Footer
 
